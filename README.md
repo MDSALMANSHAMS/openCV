@@ -2,7 +2,8 @@
 Mediapipe
 
 
-<img width="625" alt="face detection in Mediapipe" src="https://user-images.githubusercontent.com/68110323/211040855-b0751649-5460-493d-8c26-338c478e3797.png">
+https://user-images.githubusercontent.com/68110323/211041383-9d9c5e7a-986f-4984-96d5-edb162c265b7.mp4
+
 
 result
 
