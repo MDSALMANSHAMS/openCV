@@ -2,7 +2,7 @@
 Mediapipe
 
 
-https://user-images.githubusercontent.com/68110323/211041383-9d9c5e7a-986f-4984-96d5-edb162c265b7.mp4
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68110323/211045141-a6b95fd2-2fb1-4166-bf26-56fafc66ac79.gif)
 
 
 result
